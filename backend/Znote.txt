@@ -1,0 +1,9 @@
+ npm i jsonwebtoken very important to identify user
+
+ Every time you make changes in "env" make sure to restart identify
+
+ "npm i bcryptjs" it makes encryption of the user data before they got into the database
+
+ npm i express-async-handler >> good to use try-catch block in advanced way
+
+ any time you want to interact with the database use a Model

@@ -16,7 +16,7 @@ function App() {
   return (
     <>
      <BrowserRouter>
-     <Loader/>
+     
       <Routes>
       
         <Route path="/" element={
